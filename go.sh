@@ -1,0 +1,1 @@
+./read_and_write_fft ./8ch.wav test.wav 00
